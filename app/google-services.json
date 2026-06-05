@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "426196311779",
+    "project_id": "appfirebase-17df5",
+    "storage_bucket": "appfirebase-17df5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426196311779:android:4b2d2692790d15886b2fd6",
+        "android_client_info": {
+          "package_name": "br.edu.fatecpg.appfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426196311779-oq16d05nmiutkfgkv9kqu95shffarfdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.fatecpg.appfirebase",
+            "certificate_hash": "3f8e643b7dac2220dde39a1a1c47ba7570d5a727"
+          }
+        },
+        {
+          "client_id": "426196311779-ahledv4l70jmk7qtfjrtnb48bgsu2r0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmY0anyn3Fg3XCGkpsTVO-GAKSUIQSZ70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426196311779-ahledv4l70jmk7qtfjrtnb48bgsu2r0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
